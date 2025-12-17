@@ -1,6 +1,8 @@
 #ifndef MENU_HPP
 #define MENU_HPP
 
+#include <string>
+
 /**
  * @brief Menu display and input handling utilities
  */

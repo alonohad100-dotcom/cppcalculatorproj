@@ -2,6 +2,8 @@
 #include <stdexcept>
 #include <sstream>
 #include <iomanip>
+#include <iostream>
+#include <cmath>
 
 Calculator::Calculator() : lastResult(0.0), memory(0.0) {
 }
